@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4414c264913b82e45b99ece995f7ae50, type: 3}
+  m_Name: ak
+  m_EditorClassIdentifier: 
+  weapon_name: ak
+  bomb_path: prefabs/bomb
+  prefab_path: images/ak
+  damage: 5
+  shoot_speed: 0.1
+  bomb_speed: 20
